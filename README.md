@@ -1,16 +1,76 @@
-### Hi there 👋
+# 💡Lora Baek
 
-<!--
-**LoraBaek/LoraBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **SL.BAEK27@gmail.com**  
+🇰🇷 **Busan, Republic of Korea (Willing to relocate)**  
 
-Here are some ideas to get you started:
+![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoraBaek&count_private=true&&show_icons=true&theme=algolia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▫️ Prefer to work **remotely** or with flexible schedules  
+▫️ Want to utilize my skills to enhance the company’s profitability and improve operation performance  
+▫️ Always willing to help my coworkers - for everyone’s benefit  
+
+---
+
+## 📍 **EXPERIENCE**  
+### **Data Analyst & Project Manager, Dataedu**  
+**Oct.2021~Jan.2023**  
+
+### ✔️ Managed a project as a team leader of 12 people, 2022
+Projects for governments, data analysis&visualization  
+AI,Bigdata consulting for startups in Busan  
+
+👩🏻‍💻 **Programming of web-crawler, data handling**  
+Python : Pandas, Numpy, Selenuum, BeautifulSoup, Seaborn, Matplotlib, etc  
+PowerBI : Data visualization & Modeling, Database  
+
+---
+
+### Chief Administrative Officer, Herald academy in Haeundae  
+**Jul.2019~Oct.2021**  
+### ✔️ Supervised the overall operations  
+Strategized for future growth by data analysis ➡️ Enhanced 41.8% growth for 1 year    
+A great communicator    
+
+---
+
+### Business Owner, Youearth Corp.  
+**May.2019~May.2021**  
+### ✔️ Operated E-commerce business  
+Experience of running my own business    
+---
+
+## 🗣️ LANGUAGE  
+🇨🇦 ENGLISH : **IELTS** OVERALL **7.0, IDP**  **Jun.2021**  
+🇰🇷 KOREAN : Native speaker  
+
+---
+
+## 🏆 CERTIFICATE  
+- Leader of Data Science coaching study  
+*Naver Corp.*, **Nov.2022**  
+
+- Advanced Data Analytics Semi-Professional  
+*Korea data agency*, **Mar.2022**
+
+- Advanced Power-BI course  
+*Korea Polytechnics*, **Dec.2021**  
+
+- Computer Specialist in Spreadsheet & Database(Advanced)  
+*The Korea Chamber of Commerce&Industry*, **May.2018**  
+
+- Microsoft Office Specialist EXPERT(Excel, Access 2010)   
+*Microsoft*, **Jan.2018**  
+
+---
+
+## 🎓 EDUCATION  
+### Bachelor’s degree, Statistics, Pukyong national university  
+**2013-2018**  
+
+---
+
+# LinkedIn profile
+https://www.linkedin.com/in/lora-baek-650b27239/
+
+# Notion portfolio
+https://grove-vacuum-1a4.notion.site/Lora-Baek-7898d4bab99e49b090b33e3a3de21f50
