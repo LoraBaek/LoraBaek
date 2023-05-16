@@ -35,8 +35,9 @@ A great communicator
 
 ### Business Owner, Youearth Corp.  
 **May.2019~May.2021**  
-### ✔️ Operated E-commerce business  
-Experience of running my own business    
+### ✔️ Operated E-commerce business.  
+[Experience of running my own business](https://grove-vacuum-1a4.notion.site/Experience-of-running-my-own-business-98af68bff1fa41ec8a612f34865bedd0)
+
 ---
 
 ## 🗣️ LANGUAGE  
@@ -46,26 +47,26 @@ Experience of running my own business
 ---
 
 ## 🏆 CERTIFICATE  
-- Leader of Data Science coaching study  
-*Naver Corp.*, **Nov.2022**  
+- Nov.2022 : Leader of Data Science coaching study  
+*Naver Corp.*  
 
-- Advanced Data Analytics Semi-Professional  
-*Korea data agency*, **Mar.2022**
+- Mar.2022 : Advanced Data Analytics Semi-Professional  
+*Korea data agency*  
 
-- Advanced Power-BI course  
-*Korea Polytechnics*, **Dec.2021**  
+- Dec.2021 : Advanced Power-BI course  
+*Korea Polytechnics* 
 
-- Computer Specialist in Spreadsheet & Database(Advanced)  
-*The Korea Chamber of Commerce&Industry*, **May.2018**  
+- MAY.2018 : Computer Specialist in Spreadsheet & Database(Advanced)  
+*The Korea Chamber of Commerce&Industry*  
 
-- Microsoft Office Specialist EXPERT(Excel, Access 2010)   
-*Microsoft*, **Jan.2018**  
+- Jan.2018 : Microsoft Office Specialist EXPERT(Excel, Access 2010)   
+*Microsoft*  
 
 ---
 
 ## 🎓 EDUCATION  
 ### Bachelor’s degree, Statistics, Pukyong national university  
-**2013-2018**  
+2013-2018  
 
 ---
 
