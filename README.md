@@ -25,7 +25,7 @@ PowerBI : Data visualization & Modeling, Database
 
 ---
 
-### Chief Administrative Officer, Herald academy in Haeundae  
+### Chief Administrative Officer, Herald Haeundae branch  
 **Jul.2019~Oct.2021**  
 ### ✔️ Supervised the overall operations  
 Strategized for future growth by data analysis ➡️ Enhanced 41.8% growth for 1 year    
