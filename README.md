@@ -1,13 +1,14 @@
 # 💡Lora Baek
 
+▫️ I'm currently learning ML & DL and really into it.  
+▫️ I want to utilize my skills to enhance the company’s profitability and improve operation performance.  
+▫️ I'm always willing to help my coworkers - for everyone’s benefit.  
+
 📧 **SL.BAEK27@gmail.com**  
 🇰🇷 **Busan, Republic of Korea (Willing to relocate)**  
 
-![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoraBaek&count_private=true&&show_icons=true&theme=algolia)
+![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoraBaek&count_private=true&&show_icons=true&theme=algolia)  
 
-▫️ Prefer to work **remotely** or with flexible schedules  
-▫️ Want to utilize my skills to enhance the company’s profitability and improve operation performance  
-▫️ Always willing to help my coworkers - for everyone’s benefit  
 
 ---
 
