@@ -7,9 +7,6 @@
 📧 **SL.BAEK27@gmail.com**  
 🇰🇷 **Busan, Republic of Korea (Willing to relocate)**  
 
-![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoraBaek&count_private=true&&show_icons=true&theme=algolia)  
-
-
 ---
 
 ## 📍 **EXPERIENCE**  
@@ -74,5 +71,4 @@ A great communicator
 # LinkedIn profile
 https://www.linkedin.com/in/lora-baek-650b27239/
 
-# Notion portfolio
-https://grove-vacuum-1a4.notion.site/Lora-Baek-7898d4bab99e49b090b33e3a3de21f50
+![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoraBaek&count_private=true&&show_icons=true&theme=algolia)  
