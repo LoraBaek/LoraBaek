@@ -1,16 +1,24 @@
 # 💡Lora Baek
 
-▫️ I'm currently learning ML & DL and really into it.  
+▫️ I'm currently learning Data Engineering & ML,DL and really into it.  
 ▫️ I want to utilize my skills to enhance the company’s profitability and improve operation performance.  
 ▫️ I'm always willing to help my coworkers - for everyone’s benefit.  
 
 📧 **SL.BAEK27@gmail.com**  
-🇰🇷 **Busan, Republic of Korea (Willing to relocate)**  
+🇰🇷 **Seoul, Republic of Korea (Willing to relocate)**  
 
 ---
 
 ## 📍 **EXPERIENCE**  
-### **Data Analyst & Project Manager, Dataedu**  
+### Data Engineer
+**Jul.2024~**  
+### ✔️ Managed and optimized data pipelines
+Data process automation with Apache airflow
+Maintaining data pipelines using AWS
+
+---
+
+### **Data Analyst & Project Manager**  
 **Oct.2021~Jan.2023**  
 
 ### ✔️ Managed a project as a team leader of 12 people, 2022
@@ -23,7 +31,7 @@ PowerBI : Data visualization & Modeling, Database
 
 ---
 
-### Chief Administrative Officer, Herald Haeundae branch  
+### Chief Administrative Officer
 **Jul.2019~Oct.2021**  
 ### ✔️ Supervised the overall operations  
 Strategized for future growth by data analysis ➡️ Enhanced 41.8% growth for 1 year    
@@ -31,7 +39,7 @@ A great communicator
 
 ---
 
-### Business Owner, Youearth Corp.  
+### Business Owner
 **May.2019~May.2021**  
 ### ✔️ Operated E-commerce business.  
 [Experience of running my own business](https://grove-vacuum-1a4.notion.site/Experience-of-running-my-own-business-98af68bff1fa41ec8a612f34865bedd0)
