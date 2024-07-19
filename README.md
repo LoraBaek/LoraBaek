@@ -13,8 +13,8 @@
 ### Data Engineer
 **Jul.2024~**  
 ### ✔️ Managed and optimized data pipelines
-Data process automation with Apache airflow
-Maintaining data pipelines using AWS
+Data process automation with Apache airflow  
+Maintaining data pipelines using AWS  
 
 ---
 
