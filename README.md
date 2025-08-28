@@ -78,5 +78,3 @@ A great communicator
 
 # LinkedIn profile
 https://www.linkedin.com/in/lora-baek-650b27239/
-
-![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoraBaek&count_private=true&&show_icons=true&theme=algolia)  
